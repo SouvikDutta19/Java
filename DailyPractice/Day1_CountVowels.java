@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day2_CountVowels {
+public class Day1_CountVowels {
 
     /**
      * Counts the number of vowels in the given string.
