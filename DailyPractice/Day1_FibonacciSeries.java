@@ -9,7 +9,7 @@ import java.util.Scanner;
  * It uses an efficient iterative approach with O(N) time and O(1) space.
  */
 
-public class Day2_FibonacciSeries {
+public class Day1_FibonacciSeries {
 
     /**
      * Prints the first n Fibonacci numbers.
