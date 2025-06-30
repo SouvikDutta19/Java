@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day2_CheckPalindrome {
+public class Day1_CheckPalindrome {
 
     /**
      * Checks whether a given string is a palindrome.
